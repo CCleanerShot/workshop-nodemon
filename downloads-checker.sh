@@ -1,6 +1,9 @@
+# What this program does:
+# it simply logs whenever the downloads folder has been changed
+
 # How this program will work:
-# 1) declare where our downloads directory is located
-# 2) notify when the downloads directory gets 
+# 1) declare  our directory
+# 2) notify when the directory gets updated
 # 3) echo the event results
 
 DIRECTORY="/home/$USER/Downloads"
