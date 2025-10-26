@@ -2,7 +2,7 @@
 # it simply logs whenever the downloads folder has been changed
 
 # How this program will work:
-# 1) declare  our directory
+# 1) declare our directory
 # 2) notify when the directory gets updated
 # 3) echo the event results
 
